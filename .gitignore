@@ -5,6 +5,7 @@
 /logs/*
 /tmp/*
 /vendor/*
+*.sqlite
 
 # OS generated files #
 ######################

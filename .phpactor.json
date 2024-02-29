@@ -1,4 +1,4 @@
 {
     "$schema": "/home/cb/.local/share/nvim/mason/packages/phpactor/phpactor.schema.json",
-    "php_code_sniffer.enabled": true
+    "php_code_sniffer.enabled": false
 }

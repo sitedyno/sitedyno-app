@@ -5,6 +5,7 @@
 /logs/*
 /tmp/*
 /vendor/*
+/webroot/bundled/*
 *.sqlite
 
 # OS generated files #

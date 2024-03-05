@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+DEBUG=1 ./bin/cake asset_compress build
+DEBUG=0 ./bin/cake server "$@"

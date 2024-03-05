@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+paths="templates/**, "
+paths+="webroot/**, "
+paths+="plugins/**/templates/**, "
+paths+="plugins/**/webroot/**"
+
+DEBUG=1 ./bin/cake asset_compress clear
+DEBUG=1 ./bin/cake server "$@" &
+./node_modules/.bin/livereload "$paths" && fg

@@ -1,6 +1,6 @@
-# CakePHP Application Skeleton
+# My Personal CakePHP Application Skeleton
 
-A skeleton for creating applications with [CakePHP](https://cakephp.org) 5.x.
+My personal skeleton for creating applications with [CakePHP](https://cakephp.org) 5.x.
 
 The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
 

@@ -12,6 +12,6 @@ Other environment agnostic settings can be changed in `config/app.php`.
 
 ## Layout
 
-The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
+The app skeleton uses [pico red](https://picocss.com/) minimalist CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
